@@ -1,0 +1,66 @@
+
+.row.mainHeader {
+    /* margin-bottom: 5em; */
+    /* padding-bottom: 5em; */
+   
+    min-height: 80vh;
+    color: #fff;
+}
+
+.row.mainHeader.redux {
+    min-height: 10vh;
+}
+
+div#mainSearchContainer {
+    padding-top: 5em;
+    padding-bottom: 5em;
+    /*background-color: #fff;*/
+}
+
+div#mainSearchContainer.redux {
+    padding-top: 0em;
+    padding-bottom: 1em;
+}
+
+nav#mainSearch {
+    width: 45em;
+    
+}
+
+input#inputSearchMain {
+    width: 20em;
+}
+select#inputSearchMainService {
+    width: 15em;
+}
+
+button.btn.btn-info.my-2.my-sm-0.searchbtn {
+    width: 7em;
+}
+
+.divCenter {
+    align-self: center!important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row.peluqueria {
+    max-width: 100vh;
+    margin-top: 2em;
+}
+
+
+
+/**
+Perfiles
+**/
+.mb-5.title-service {
+    color: #777;
+}
+.row.services {
+    padding-left: 15%;
+}
+h2.featurette-heading.title-feature-perfil {
+    color: #17a2b8;
+}
